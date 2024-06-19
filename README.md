@@ -1,5 +1,10 @@
 ![image](https://github.com/bdushime/assignment_hello/assets/135814208/bb6c7bd8-6fff-43c1-8eaf-37924a8ddaa1)
 
+Names:Dushime Beni Egide
+ID:25285
+
+
+
 This Flutter application displays a simple "Hello" message centered on the screen. The app features a deep purple color scheme with a bold, large text for the greeting. It demonstrates the basic structure of a Flutter app, including the use of MaterialApp, Scaffold, AppBar, and Text widgets.
 
 Features:
